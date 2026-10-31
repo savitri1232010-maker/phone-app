@@ -1,0 +1,9 @@
+{
+  "name": "Quickio AI",
+  "description": "Production-grade Multimodal AI Suite featuring on-device neural vision, plant disease diagnostics, trash sorter, farming advisor, voice quiz, and companion APK & Python studio.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
